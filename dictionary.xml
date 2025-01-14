@@ -1,149 +1,45 @@
 <rss version="0.91">
-  <channel>
-    <title>Литературные приёмы</title>
-    <link>https://example.com/literary-devices</link>
-    <description>Список литературных приемов с определениями.</description>
-    <language>ru</language>
-    <copyright>Copyright 2024</copyright>
-    <managingEditor>admin@example.com</managingEditor>
-    <webMaster>admin@example.com</webMaster>
-    <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 23 Jan 2024 14:00:00 +0300</lastBuildDate>
-    <image>
-      <title>Литературные приёмы</title>
-      <url>https://example.com/logo.png</url>
-      <link>https://example.com/literary-devices</link>
-      <width>88</width>
-      <height>31</height>
-      <description>Логотип сайта</description>
-    </image>
-    <item>
-      <title>Антитеза</title>
-      <link>https://example.com/literary-devices/antithese</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Резкое противопоставление]]>
-      </description>
-    </item>
-    <item>
-      <title>Инверсия</title>
-      <link>https://example.com/literary-devices/inversion</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Обратный порядок слов]]>
-      </description>
-    </item>
-     <item>
-      <title>Градация</title>
-      <link>https://example.com/literary-devices/gradation</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Расположение слов по нарастанию (восходящая) или убыванию (нисходящая) их значения]]>
-      </description>
-    </item>
-     <item>
-      <title>Оксюморон</title>
-      <link>https://example.com/literary-devices/oxymoron</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Контрастное сочетание слов, противоположных по смыслу]]>
-      </description>
-    </item>
-    <item>
-      <title>Парцелляция</title>
-      <link>https://example.com/literary-devices/parcellation</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренное нарушение границ предложения (разделение с помощью точек)]]>
-      </description>
-    </item>
-     <item>
-      <title>Анафора</title>
-      <link>https://example.com/literary-devices/anaphora</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Единоначатие, повторение сходных слов в начале строф или близко расположенных фраз]]>
-      </description>
-    </item>
-      <item>
-      <title>Эпифора</title>
-      <link>https://example.com/literary-devices/epiphora</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Повторение одних и тех же слов или фраз в конце нескольких рядов стоящих конструкций]]>
-      </description>
-    </item>
-     <item>
-      <title>Риторический вопрос</title>
-      <link>https://example.com/literary-devices/rhetorical-question</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Вопрос, на который нет или не ожидается ответа, философский вопрос]]>
-      </description>
-    </item>
-    <item>
-      <title>Риторическое обращение</title>
-      <link>https://example.com/literary-devices/rhetorical-address</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Обращение к людям, не участвующим в общении, или к неодушевлённым объектам]]>
-      </description>
-    </item>
-    <item>
-      <title>Эллипсис</title>
-      <link>https://example.com/literary-devices/ellipsis</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Пропуск сказуемого, придающий речи динамизм]]>
-      </description>
-    </item>
-     <item>
-      <title>Лексический повтор</title>
-      <link>https://example.com/literary-devices/lexical-repetition</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренное повторение одного и того же слова или словосочетания]]>
-      </description>
-    </item>
-      <item>
-      <title>Вопросно-ответная форма изложения</title>
-      <link>https://example.com/literary-devices/question-answer</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Форма изложения, при которой чередуются вопросы и ответы]]>
-      </description>
-    </item>
-    <item>
-       <title>Синтаксический параллелизм</title>
-       <link>https://example.com/literary-devices/syntactic-parallelism</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Одинаковое синтаксическое построение соседних предложений]]>
-      </description>
-    </item>
-     <item>
-      <title>Однородные члены предложения</title>
-      <link>https://example.com/literary-devices/homogeneous-members</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Перечисляемые действия, предметы, признаки]]>
-      </description>
-    </item>
-     <item>
-      <title>Многосоюзие</title>
-      <link>https://example.com/literary-devices/polysyndeton</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренный многократный повтор союзов при перечислении]]>
-      </description>
-    </item>
-    <item>
-       <title>Бессоюзие</title>
-      <link>https://example.com/literary-devices/asyndeton</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Как бессоюзное предложение]]>
-      </description>
-    </item>
-  </channel>
+<channel>
+<title>Анекдоты из России - Anekdot.ru</title>
+<link>https://www.anekdot.ru/</link>
+<description>Анекдоты из России - самые смешные анекдоты, истории, афоризмы и фразы, стишки, карикатуры и другой юмор. Выходят с 8 ноября 1995 года. Составитель Дима Вернер</description>
+<language>ru</language>
+<copyright>Copyright 2025 ANEKDOT.RU</copyright>
+<managingEditor>verner@anekdot.ru (Dima Verner)</managingEditor>
+<webMaster>verner@anekdot.ru (Dima Verner)</webMaster>
+<pubDate>Mon, 13 Jan 2025 00:00:00 +0300</pubDate>
+<lastBuildDate>Tue, 14 Jan 2025 13:58:01 +0300</lastBuildDate>
+<image>
+<title>Анекдоты из России - Anekdot.ru</title>
+<url>https://www.anekdot.ru/i/logo-88-31.gif?rss</url>
+<link>https://www.anekdot.ru</link>
+<width>88</width>
+<height>31</height>
+<description>Анекдоты из России</description>
+</image>
+<item>
+<title>Анекдот дня по итогам голосования за 13 января 2025</title>
+<link>https://www.anekdot.ru/release/anekdot/day/2025-01-13/#1501629</link>
+<pubDate>Mon, 13 Jan 2025 00:00:00 +0300</pubDate>
+<description>
+<![CDATA[ - Привет. Ты же креативный, помоги. Как оригинально подарить сестре на свадьбу деньги? Я буду свидетельницей, и все ждут от меня какого-то необычного поздравления. Посоветуй варианты?<br> - Брось деньги жениху в лицо, и прокричи, что не будешь делать аборт. Обязательно запомнится. ]]>
+</description>
+</item>
+<item>
+<title>История дня по итогам голосования за 13 января 2025</title>
+<link>https://www.anekdot.ru/release/story/day/2025-01-13/#1501713</link>
+<pubDate>Mon, 13 Jan 2025 00:00:00 +0300</pubDate>
+<description>
+<![CDATA[ Во время большого путешествия Нансена по Сибири в 1913 году, его, помимо главной цели - изучения возможности оборудования в устье Енисея большого перевалочного порта, интересовали быт и нравы местных племен. <br>Однажды ему рассказали о племени оленеводов, которое являлось головной болью местной епархии - племя во главе с шаманом приняло христианство, но ни в какую не бросало свои языческие обряды и камлания. <br>Нансен живо заинтересовался и ему устроили встречу с шаманом, который носил вышитый на одежде христианский крест и довольно сносно говорил по-русски. Нансен его прямо спросил: как они умудряются одновременно исповедовать христианство и язычество? <br>Шаман ответил: <br>"Новый христианский бог очень хороший, добрый, мы все его любим. Но он ровным счетом ничего не понимает в оленях. Поэтому нам необходимо поклоняться старым богам и произносить старые заклинания". <br>Нансену настолько понравился этот ответ, что он его записал и часто со смехом цитировал. ]]>
+</description>
+</item>
+<item>
+<title>Фраза дня по итогам голосования за 13 января 2025</title>
+<link>https://www.anekdot.ru/release/aphorism/day/2025-01-13/#1501616</link>
+<pubDate>Mon, 13 Jan 2025 00:00:00 +0300</pubDate>
+<description>
+<![CDATA[ Если бы велась постоянная статистика сколько твоих ровесников в мире не дожили до твоего возраста, ты бы ежедневно радовался каждому прожитому дню ]]>
+</description>
+</item>
+</channel>
 </rss>
