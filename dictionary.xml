@@ -1,4 +1,4 @@
-<literary_devices>
+<rss version="0.91">
   <channel>
     <title>Литературные приёмы</title>
     <link>https://example.com/literary-devices</link>
@@ -146,4 +146,4 @@
       </description>
     </item>
   </channel>
-</literary_devices>
+</rss>
