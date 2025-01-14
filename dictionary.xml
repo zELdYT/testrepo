@@ -1,0 +1,66 @@
+<literary_devices>
+  <device>
+    <name>Антитеза</name>
+    <definition>Резкое противопоставление</definition>
+  </device>
+  <device>
+    <name>Инверсия</name>
+    <definition>Обратный порядок слов</definition>
+  </device>
+  <device>
+    <name>Градация</name>
+    <definition>Расположение слов по нарастанию (восходящая) или убыванию (нисходящая) их значения</definition>
+  </device>
+  <device>
+    <name>Оксюморон</name>
+    <definition>Контрастное сочетание слов, противоположных по смыслу</definition>
+  </device>
+    <device>
+    <name>Парцелляция</name>
+    <definition>Намеренное нарушение границ предложения (разделение с помощью точек)</definition>
+  </device>
+  <device>
+    <name>Анафора</name>
+    <definition>Единоначатие, повторение сходных слов в начале строф или близко расположенных фраз</definition>
+  </device>
+  <device>
+    <name>Эпифора</name>
+    <definition>Повторение одних и тех же слов или фраз в конце нескольких рядов стоящих конструкций</definition>
+  </device>
+  <device>
+    <name>Риторический вопрос</name>
+    <definition>Вопрос, на который нет или не ожидается ответа, философский вопрос</definition>
+  </device>
+  <device>
+    <name>Риторическое обращение</name>
+    <definition>Обращение к людям, не участвующим в общении, или к неодушевлённым объектам</definition>
+  </device>
+  <device>
+    <name>Эллипсис</name>
+    <definition>Пропуск сказуемого, придающий речи динамизм</definition>
+  </device>
+    <device>
+    <name>Лексический повтор</name>
+    <definition>Намеренное повторение одного и того же слова или словосочетания</definition>
+  </device>
+  <device>
+    <name>Вопросно-ответная форма изложения</name>
+    <definition>Форма изложения, при которой чередуются вопросы и ответы</definition>
+  </device>
+  <device>
+     <name>Синтаксический параллелизм</name>
+    <definition>Одинаковое синтаксическое построение соседних предложений</definition>
+  </device>
+  <device>
+    <name>Однородные члены предложения</name>
+    <definition>Перечисляемые действия, предметы, признаки</definition>
+  </device>
+ <device>
+    <name>Многосоюзие</name>
+    <definition>Намеренный многократный повтор союзов при перечислении</definition>
+  </device>
+  <device>
+    <name>Бессоюзие</name>
+    <definition>Как бессоюзное предложение</definition>
+  </device>
+</literary_devices>
