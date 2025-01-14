@@ -1,150 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="0.91">
+<rss version="2.0">
   <channel>
-    <title>Литературные приёмы</title>
-    <link>https://example.com/literary-devices</link>
-    <description>Список литературных приемов с определениями.</description>
-    <language>ru</language>
-    <copyright>Copyright 2024</copyright>
-    <managingEditor>admin@example.com</managingEditor>
-    <webMaster>admin@example.com</webMaster>
-    <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 23 Jan 2024 14:00:00 +0300</lastBuildDate>
-    <image>
-      <title>Литературные приёмы</title>
-      <url>https://example.com/logo.png</url>
-      <link>https://example.com/literary-devices</link>
-      <width>88</width>
-      <height>31</height>
-      <description>Логотип сайта</description>
-    </image>
+    <title>Мой словарь</title>
+    <link>https://example.com</link>
+    <description>Коллекция текстов</description>
     <item>
-      <title>Антитеза</title>
-      <link>https://example.com/literary-devices/antithese</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Резкое противопоставление]]>
-      </description>
+      <title>Текст 1</title>
+      <description>Это первый текст для тренировки. Он имеет несколько строк...</description>
     </item>
     <item>
-      <title>Инверсия</title>
-      <link>https://example.com/literary-devices/inversion</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Обратный порядок слов]]>
-      </description>
-    </item>
-     <item>
-      <title>Градация</title>
-      <link>https://example.com/literary-devices/gradation</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Расположение слов по нарастанию (восходящая) или убыванию (нисходящая) их значения]]>
-      </description>
-    </item>
-     <item>
-      <title>Оксюморон</title>
-      <link>https://example.com/literary-devices/oxymoron</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Контрастное сочетание слов, противоположных по смыслу]]>
-      </description>
-    </item>
-    <item>
-      <title>Парцелляция</title>
-      <link>https://example.com/literary-devices/parcellation</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренное нарушение границ предложения (разделение с помощью точек)]]>
-      </description>
-    </item>
-     <item>
-      <title>Анафора</title>
-      <link>https://example.com/literary-devices/anaphora</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Единоначатие, повторение сходных слов в начале строф или близко расположенных фраз]]>
-      </description>
-    </item>
-      <item>
-      <title>Эпифора</title>
-      <link>https://example.com/literary-devices/epiphora</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Повторение одних и тех же слов или фраз в конце нескольких рядов стоящих конструкций]]>
-      </description>
-    </item>
-     <item>
-      <title>Риторический вопрос</title>
-      <link>https://example.com/literary-devices/rhetorical-question</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Вопрос, на который нет или не ожидается ответа, философский вопрос]]>
-      </description>
-    </item>
-    <item>
-      <title>Риторическое обращение</title>
-      <link>https://example.com/literary-devices/rhetorical-address</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Обращение к людям, не участвующим в общении, или к неодушевлённым объектам]]>
-      </description>
-    </item>
-    <item>
-      <title>Эллипсис</title>
-      <link>https://example.com/literary-devices/ellipsis</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Пропуск сказуемого, придающий речи динамизм]]>
-      </description>
-    </item>
-     <item>
-      <title>Лексический повтор</title>
-      <link>https://example.com/literary-devices/lexical-repetition</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренное повторение одного и того же слова или словосочетания]]>
-      </description>
-    </item>
-      <item>
-      <title>Вопросно-ответная форма изложения</title>
-      <link>https://example.com/literary-devices/question-answer</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Форма изложения, при которой чередуются вопросы и ответы]]>
-      </description>
-    </item>
-    <item>
-       <title>Синтаксический параллелизм</title>
-       <link>https://example.com/literary-devices/syntactic-parallelism</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Одинаковое синтаксическое построение соседних предложений]]>
-      </description>
-    </item>
-     <item>
-      <title>Однородные члены предложения</title>
-      <link>https://example.com/literary-devices/homogeneous-members</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Перечисляемые действия, предметы, признаки]]>
-      </description>
-    </item>
-     <item>
-      <title>Многосоюзие</title>
-      <link>https://example.com/literary-devices/polysyndeton</link>
-      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Намеренный многократный повтор союзов при перечислении]]>
-      </description>
-    </item>
-    <item>
-       <title>Бессоюзие</title>
-      <link>https://example.com/literary-devices/asyndeton</link>
-       <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[Как бессоюзное предложение]]>
-      </description>
+      <title>Текст 2</title>
+      <description>Это второй текст для тренировки. Также несколько строк...</description>
     </item>
   </channel>
 </rss>
