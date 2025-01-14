@@ -1,15 +1,37 @@
-<rss version="0.9">
+<rss version="0.91">
   <channel>
     <title>Мой словарь</title>
-    <link>https://example.com</link>
-    <description>Коллекция текстов</description>
+    <link>https://example.com/dictionary</link>
+    <description>Коллекция текстов для изучения.</description>
+    <language>ru</language>
+    <copyright>Copyright 2024 Example</copyright>
+    <managingEditor>admin@example.com (Admin)</managingEditor>
+    <webMaster>admin@example.com (Admin)</webMaster>
+    <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2024 14:00:00 +0300</lastBuildDate>
+    <image>
+      <title>Мой словарь</title>
+      <url>https://example.com/logo.png</url>
+      <link>https://example.com/dictionary</link>
+      <width>88</width>
+      <height>31</height>
+      <description>Логотип сайта</description>
+    </image>
     <item>
       <title>Текст 1</title>
-      <description>Это первый текст для тренировки. Он имеет несколько строк...</description>
+      <link>https://example.com/dictionary/text1</link>
+      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[Это первый текст для тренировки. Он имеет несколько строк...]]>
+      </description>
     </item>
     <item>
       <title>Текст 2</title>
-      <description>Это второй текст для тренировки. Также несколько строк...</description>
+      <link>https://example.com/dictionary/text2</link>
+      <pubDate>Tue, 23 Jan 2024 14:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[Это второй текст для тренировки. Также несколько строк...]]>
+      </description>
     </item>
   </channel>
 </rss>
